@@ -3,7 +3,7 @@ title: "Angular の Directive の Options をみる"
 emoji: "🔍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Angular"]
-published: false
+published: true
 ---
 
 とりあえず Angular に入門してみたものの、チュートリアルをいくつかやってみたぐらいではまだまだ分かりません。。
